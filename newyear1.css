@@ -1,0 +1,76 @@
+body{
+    background-image: url(Yellow\ Aesthetic\ Sunflower\ Phone\ Wallpaper.png);
+    background-size: cover;
+}
+.box1{
+    border: 5px white solid;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 350px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 50px;
+    word-wrap: break-word;
+    transform: rotate(-10deg);
+    border-style: double;
+}
+.box{
+    margin-top: 60px;
+    margin-left: 20px;
+    display: inline-flex;
+}
+.box2{
+    border: 5px white solid;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 350px;
+    margin-left: 100px;
+    word-wrap: break-word;
+    transform: rotate(5deg);
+    border-style: double;
+    line-height: 1.4;
+}
+.box3{
+    border: 5px white solid;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 350px;
+    margin-left: 100px;
+    word-wrap: break-word;
+    transform: rotate(10deg);
+    border-style: double;
+    line-height: 1.4;
+    align-items: center;
+}
+.button{
+    padding: 10px;
+    width: max-content;
+    display: block;
+    margin-top: 10px;
+    margin-left: 650px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    text-shadow: 0pcx 0px 10px rgb(255, 0, 187);
+    border: 3px white solid;
+    filter: blur();
+    border-radius: 25px;
+}
+.image{
+    width: 10%;
+    border-radius: 20px;
+    margin-left: 700px;
+}
+.button:hover{
+    background-color: rgba(255, 0, 187, 0.4);
+    color: white;
+    cursor: pointer;
+}
